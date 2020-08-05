@@ -1,6 +1,6 @@
 # HideMods
 
-### [Download](/crimist/HideMods/releases/latest/download/hidemods.zip)
+### [Download](https://github.com/crimist/HideMods/releases/latest/download/hidemods.zip)
 
 Hides your Payday 2 mods
 
